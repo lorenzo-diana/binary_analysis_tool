@@ -1,3 +1,8 @@
+/*
+* Demo1 takes the name of an executable file as input and print the list of
+* sections and symbols found into the file.
+*/
+
 #include <stdio.h>
 #include "../loader.h"
 #include "../linked_list.h"
